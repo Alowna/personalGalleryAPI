@@ -1,0 +1,5 @@
+.env
+posts.json
+
+img/*
+!img/example.webp
