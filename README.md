@@ -1,20 +1,23 @@
-# Simple PHP Posts API
+# Simple PHP Posts API 
 
 This project is a lightweight PHP API that serves posts data (JSON) and static assets such as images and media files.
 
 The API is still under development and may change frequently.
 
+<div align=center>
+<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU1ZmF3eWptdWZsMDF3eWR4YTdtcjc0MTBwaHo2d3Z2OGgwYmFpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" heigth="80%">
+</div>
+
+## Project Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="120" title="PHP"/>
+
+
+
+
 ## Purpose?
 
 Meta is taking too long to release my dev account so I made my own API with a close enough structure towards the final project in [**personalGallery**](https://github.com/Alowna/PersonalGallery).
-
----
-
-# Status
-
-This project is currently in development (not production-ready).
-
-Features may be added, changed, or removed without notice.
 
 ---
 
